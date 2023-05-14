@@ -1,5 +1,6 @@
 # OneClickNode Introduction
-OneClickNode is a Celestia tool to Deploy light with one click.
+OneClickNode is a Celestia tool to Deploy light with one click and install Golang.
+
 ![intro](https://github.com/subhamgurjar/OneClickNode/assets/85839823/30f0a403-e6ff-4f01-99d7-0691bdf99cb3)
 
 
@@ -27,7 +28,8 @@ This is a command-line tool developed in Go (Golang) for automating VPS (Virtual
 4. Run the CLI tool from your terminal and enjoy VPS automation!
 5. Enter your vps details when prompted 
    a)Enter VPS IP address: b)Enter VPS password:
-6.Once Golang is installed and celestia app is downloaded you will get a success message `Installation complete!`
+6. Once Golang is installed and celestia app is downloaded you will get a success message `Installation complete!`
+
 ![done](https://github.com/subhamgurjar/OneClickNode/assets/85839823/3f095703-7ba9-48d3-823e-7e5c532b7a3d)
 
 ## Usage
