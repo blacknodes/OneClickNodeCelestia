@@ -36,7 +36,8 @@ You can customized the tool to suit your needs, you can execute it from the comm
 
 ## Important
 This tool does not generate the `make cel-key` because of the security concerns please follow the official tutorial for any help from [here](https://docs.celestia.org/nodes/celestia-node/).
-Final dir should look like this
+Final dir should look like this-
+
 ![dir](https://github.com/subhamgurjar/OneClickNode/assets/85839823/83c61ab4-89eb-4045-b437-b6fc1c88b1db)
 
 
